@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @RiyadMahmud2021
+- 👋 Hi, I’m Riyad Mahmud
 - 👀 I’m interested in Web Development,AI,ML,DL
 - 🌱 I’m currently learning React js
 - 🌱 I’m also learning Django,Django RESTfulAPI Building... 
